@@ -1,0 +1,3 @@
+Euklidesa
+
+ciąg Fibbonacciego
