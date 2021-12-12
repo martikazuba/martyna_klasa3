@@ -1,0 +1,44 @@
+programowanie strukturalne
+
+1.zmienna
+
+2.stała
+
+3.Nazewnictwo stałych i zmiennych
+
+4.struktura
+
+5.Modularyzacja programu 
+
+6.funkcje
+
+7.Przekazywanie danych do funkcji – kopiowanie, wskaźnik, referencja 
+
+8.Przesłanki do utworzenia funkcji 
+
+9.Funkcje  - zagadnienia kluczowe (funkcje powinny być małe, powinny wykonywać jedną operację,
+powinien w nich występować tylko jeden poziom abstrakcji, nazwa powinna opisywać przeznaczenie funkcji)
+ 
+10.Projektowanie funkcji (opis w pseudokodzie w formie komentarza, 
+implementacja w oparciu o pseudokod, w efekcie otrzymujemy poprawną funkcję zawierającą
+sensowne komentarze stanowiące jej dokumentację) 
+
+11.Pliki – dostęp sekwencyjny i swobodny, tryby otwarcia pliku, pliki tekstowe i binarne 
+
+programowanie obiektowe
+
+1.Oddzielenie interfejsu od implementacji 
+
+2.Klasy i obiekty 
+
+3.abstrakcja, hermetyzacja, polimorfizm, dziedziczenie
+
+4.Metody „magiczne” – konstruktor, destruktor, przeciążanie operatorów 
+
+5.Agregacja 
+
+6.Abstrakcyjna klasa bazowa (dziedziczenie po ABC) 
+
+7.metoda klasowa
+
+8.metoda statyczna
